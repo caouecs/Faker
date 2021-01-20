@@ -44,12 +44,7 @@ class Address extends \Faker\Provider\Address
     ];
 
     private static $regions = [
-        'Alsace', 'Aquitaine', 'Auvergne', 'Bourgogne', 'Bretagne', 'Centre', 'Champagne-Ardenne',
-        'Corse', 'Franche-Comté', 'Île-de-France', 'Languedoc-Roussillon', 'Limousin',
-        'Lorraine', 'Midi-Pyrénées', 'Nord-Pas-de-Calais', 'Basse-Normandie', 'Haute-Normandie',
-        'Pays-de-Loire', 'Picardie', 'Poitou-Charentes', "Provence-Alpes-Côte d'Azur", 'Rhone-Alpes',
-        'Guadeloupe', 'Martinique', 'Guyane', 'Réunion', 'Saint-Pierre-et-Miquelon', 'Mayotte',
-        'Saint-Barthélémy', 'Saint-Martin', 'Wallis-et-Futuna', 'Polynésie française', 'Nouvelle-Calédonie',
+        'Auvergne-Rhône-Alpes', 'Bourgogne-Franche-Comté', 'Bretagne', 'Centre-Val de Loire', 'Corse', 'Grand Est', 'Guadeloupe', 'Guyane', 'Hauts-de-France', 'La Réunion', 'Martinique', 'Mayotte', 'Mayotte', 'Normandie', 'Nouvelle-Aquitaine', 'Nouvelle-Calédonie', 'Occitanie', 'Pays de la Loire', 'Polynésie française', "Provence-Alpes-Côte d'Azur", 'Saint-Barthélémy', 'Saint-Martin', 'Saint-Pierre-et-Miquelon', 'Terres australes et antarctiques françaises', 'Wallis-et-Futuna', 'Île-de-France',
     ];
 
     private static $departments = [
